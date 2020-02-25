@@ -7,7 +7,6 @@ package fario;
 
 /**
  *
- * @author 1a_dam20_28
  */
 public class Fario {
 
@@ -17,6 +16,7 @@ public class Fario {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Holis");
+        System.out.println("Eres tontisimo");
     }
     
 }
