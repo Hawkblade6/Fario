@@ -17,6 +17,7 @@ public class FarioGlobal {
     public static void main(String[] args) {
         System.out.println("Hola");
         System.out.println("KLOPASA");
+        System.out.println("Marquitos");
     }
     
 }
